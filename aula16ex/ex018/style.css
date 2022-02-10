@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(70, 142, 236);
+    font: normal 1.2em arial;
+}
+
+header{
+    font-weight: bolder;
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.705);
+    text-align: center;
+}
+
+section{
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.404);
+}
+
+select#lista{
+    width: 150px;
+}
+
+footer{
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.705);
+}
